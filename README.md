@@ -265,20 +265,6 @@ Or keep H2 for stateless/demo deployments (default).
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 👥 Support
-
-For support, email support@api.cl
-
-## 🎯 Future Enhancements
-
-- [ ] Rate limiting
-- [ ] Redis caching
-- [ ] Email verification
-- [ ] Password reset functionality
-- [ ] OAuth2 integration
-- [ ] API versioning strategy
-- [ ] Comprehensive integration tests
 - [ ] Docker & Docker Compose
 - [ ] CI/CD pipeline
 - [ ] Monitoring & metrics (Prometheus, Grafana)
